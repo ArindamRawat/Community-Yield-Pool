@@ -14,6 +14,12 @@ A modern, lightweight DeFi protocol where users pool stablecoins together, and t
 - **Early Exit Penalties**: Incentivize long-term staking with penalty system
 - **Navigation System**: Easy switching between landing page and main application
 
+## Smart Contracts At:
+
+- **Mock Stable Coin**: 0xb53fe944711072481EA792b44E08986206ceA723
+- **Reward Token**: 0x53476cC0bEa57D4B862397b2520d5Eb0eE5Fa751
+- **Community Yield Pool**: 0x927aa880Eab7EA338CeD283E78DBAFD8564D8f20
+
 ## 🛠️ Tech Stack
 
 - **Frontend**: React 19, TypeScript, Vite
