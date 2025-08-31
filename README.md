@@ -181,6 +181,11 @@ The application includes comprehensive error handling:
 - **Network Errors**: Handling for RPC connection issues
 - **Validation Errors**: Input validation with helpful feedback
 
+## ⚠️ Known Issues
+
+- Rewards are being distributed correctly at the smart contract level, but there is currently a UI integration issue causing them not to be reflected properly in the frontend.  
+- This is a minor issue, and fixes are in progress to ensure rewards display accurately in the dashboard.
+
 ## 🔄 State Management
 
 - **Web3 Context**: Global wallet and contract state
