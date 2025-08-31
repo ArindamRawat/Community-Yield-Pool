@@ -13,6 +13,9 @@ A modern, lightweight DeFi protocol where users pool stablecoins together, and t
 - **Lock Periods**: Flexible staking with configurable lock periods
 - **Early Exit Penalties**: Incentivize long-term staking with penalty system
 - **Navigation System**: Easy switching between landing page and main application
+ 
+## Video Demo:
+(View)[https://youtu.be/VCv9bXFDjfU]
 
 ## Smart Contracts At:
 
