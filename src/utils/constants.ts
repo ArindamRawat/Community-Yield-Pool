@@ -1,0 +1,5 @@
+
+export const COMMUNITY_YIELD_POOL_ADDRESS = import.meta.env.VITE_COMMUNITY_YIELD_POOL_ADDRESS;
+export const MOCK_STABLE_ADDRESS = import.meta.env.VITE_MOCK_STABLE_ADDRESS;
+export const REWARD_TOKEN_ADDRESS = import.meta.env.VITE_REWARD_TOKEN_ADDRESS;
+
