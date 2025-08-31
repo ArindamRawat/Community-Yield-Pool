@@ -15,7 +15,8 @@ A modern, lightweight DeFi protocol where users pool stablecoins together, and t
 - **Navigation System**: Easy switching between landing page and main application
  
 ## Video Demo:
-(View)[https://youtu.be/VCv9bXFDjfU]
+
+[View](https://youtu.be/VCv9bXFDjfU)
 
 ## Smart Contracts At:
 
