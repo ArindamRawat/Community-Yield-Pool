@@ -18,11 +18,6 @@ A modern, lightweight DeFi protocol where users pool stablecoins together, and t
 
 [View](https://youtu.be/VCv9bXFDjfU)
 
-## Smart Contracts At:
-
-- **Mock Stable Coin**: 0xb53fe944711072481EA792b44E08986206ceA723
-- **Reward Token**: 0x53476cC0bEa57D4B862397b2520d5Eb0eE5Fa751
-- **Community Yield Pool**: 0x927aa880Eab7EA338CeD283E78DBAFD8564D8f20
 
 ## 🛠️ Tech Stack
 
@@ -149,6 +144,10 @@ The application integrates with the following smart contracts:
 - **CommunityYieldPool**: Main staking contract
 - **MockStable**: Stablecoin token for staking
 - **RewardToken**: Token distributed as rewards
+
+- **Mock Stable Coin**: 0xb53fe944711072481EA792b44E08986206ceA723
+- **Reward Token**: 0x53476cC0bEa57D4B862397b2520d5Eb0eE5Fa751
+- **Community Yield Pool**: 0x927aa880Eab7EA338CeD283E78DBAFD8564D8f20
 
 ### Key Contract Functions
 
