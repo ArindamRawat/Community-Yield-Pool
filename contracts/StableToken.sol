@@ -12,3 +12,6 @@ contract MockStable is ERC20 {
         return 18; // or 6 if you want to simulate USDC/USDT
     }
 }
+
+
+//new setup
